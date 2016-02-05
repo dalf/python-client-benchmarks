@@ -32,8 +32,8 @@ args = parser.parse_args()
 
 CYCLES = args.n
 
-if 'url' in args:
-    URL = args.url
+if 'u' in args:
+    URL = args.u
 
 if args.m=='total':
     TIMER = timeit.default_timer
