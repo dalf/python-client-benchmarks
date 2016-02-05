@@ -2,7 +2,7 @@
 Micro-benchmarking of two python HTTP client tools : requests and pycurl.
 
 ## How to setup :
-* create (or not) a virtual environement : ```mkdir ve; virutalenv ve; . ./ve/bin/activate```
+* create (or not) a virtual environement : ```mkdir ve; virtualenv ve; . ./ve/bin/activate```
 * ```pip install -r requirements.txt```
 
 ## How to run a test server
