@@ -1,3 +1,7 @@
+### !!! see [svanoort/python-client-benchmarks](https://github.com/svanoort/python-client-benchmarks) for up to date results
+* the changes in this forked have been merged into / rewrote in the svanoort version.
+* the results here may have an issue related to [this bug](https://bugzilla.redhat.com/show_bug.cgi?id=1130239) as svanoort as noticed https://github.com/pycurl/pycurl/issues/309 
+
 # python-client-benchmarks
 Micro-benchmarking of two python HTTP client tools : requests and pycurl.
 
